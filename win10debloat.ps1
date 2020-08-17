@@ -30,11 +30,11 @@ $tweaks = @(
 	"RequireAdmin",
 
 	### External Program Setup
-	# "InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
+	 "InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
 	# "InstallAdobe",
 	# "Install7Zip",
 	# "InstallNotepadplusplus",
-	# "InstallMediaPlayerClassic",
+	 "InstallMediaPlayerClassic",
 
 	### Windows Apps
 	"DebloatAll",
